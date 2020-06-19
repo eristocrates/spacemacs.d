@@ -1,0 +1,2 @@
+# spacemacs.d
+Spacemacs folder
