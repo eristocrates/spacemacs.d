@@ -1,2 +1,2 @@
 # spacemacs.d
-Spacemacs folder
+Repository for my spacemacs.d folder.
